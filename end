@@ -1,0 +1,125 @@
+[33mcommit 1f453838878b8b4bc898678702acd00a8f580c5f[m
+Author: Nilson Jacques <neil.jacques@gmail.com>
+Date:   Fri Jan 22 11:23:57 2016 -0200
+
+    Add MIT license
+
+[33mcommit 395fd48b4a046460d76d117041e00030ea232bcb[m
+Author: Simon Holmes <sholmes@liveperson.com>
+Date:   Wed Aug 19 08:29:39 2015 +0100
+
+    Finalise profile view
+
+[33mcommit 4c9fe317b16e3ba935bd922158ef9c0091c36a23[m
+Author: Simon Holmes <sholmes@liveperson.com>
+Date:   Wed Aug 19 06:56:27 2015 +0100
+
+    Update Angular route protection
+
+[33mcommit 528f50343595c8b4180ad33bdbc49221a86cc7b2[m
+Author: Simon Holmes <sholmes@liveperson.com>
+Date:   Wed Aug 19 06:30:44 2015 +0100
+
+    Add secure Angular route
+
+[33mcommit e180f38fd2f1b243efb114ebb372af6ac91f2338[m
+Author: Simon Holmes <sholmes@liveperson.com>
+Date:   Mon Aug 17 07:26:21 2015 +0100
+
+    Tie nav to auth service
+
+[33mcommit 79f4499401ab57ed2556fb45e994ac07006664ca[m
+Author: Simon Holmes <sholmes@liveperson.com>
+Date:   Mon Aug 17 07:09:42 2015 +0100
+
+    Enable register and login controllers
+
+[33mcommit 58dbcf0190491b12fc5aa4907138bc096e1bd207[m
+Author: Simon Holmes <sholmes@liveperson.com>
+Date:   Mon Aug 17 06:36:07 2015 +0100
+
+    Finalise API and create Angular service
+
+[33mcommit 279f0ad0e6b020cbf7322db92a28e3eb1ee01de7[m
+Author: Simon Holmes <sholmes@liveperson.com>
+Date:   Tue Aug 11 10:14:44 2015 +0100
+
+    Set up API routes
+
+[33mcommit 9b2023c383dd21f9fa878c604d43f83a1b36a077[m
+Author: Simon Holmes <sholmes@liveperson.com>
+Date:   Tue Aug 11 09:15:13 2015 +0100
+
+    Add nodemon config
+
+[33mcommit 59f4bb7bf1629aaa83edf2fe30ebc60a0bc1cfab[m
+Author: Simon Holmes <sholmes@liveperson.com>
+Date:   Tue Aug 11 09:12:32 2015 +0100
+
+    Minor filename & gulp tweaks
+
+[33mcommit 1b5dfb3b81652731bf25d54ff420b2eb6a269fa9[m
+Author: Simon Holmes <sholmes@liveperson.com>
+Date:   Tue Aug 11 07:23:15 2015 +0100
+
+    Move minified app to app_client
+
+[33mcommit 03f1564e10dddecb007d6e1a67e234fe7b9ea6a2[m
+Author: Simon Holmes <sholmes@liveperson.com>
+Date:   Tue Aug 11 07:11:56 2015 +0100
+
+    Setup base files
+
+[33mcommit 94a6c1e4df311d4b8e479c458c7d90efda6807b5[m
+Author: Simon Holmes <sholmes@liveperson.com>
+Date:   Mon Aug 10 08:32:30 2015 +0100
+
+    Update gulp, start app skeleton
+
+[33mcommit c2f4c18ef2acab7078730d6fee40a39e90c51418[m
+Author: Simon Holmes <sholmes@liveperson.com>
+Date:   Sun Aug 9 07:39:07 2015 +0100
+
+    Add angular, set up routing and gulp
+
+[33mcommit b5848e487bf8d7b8d67dd8c52e502400cdc7ace2[m
+Author: Simon Holmes <sholmes@liveperson.com>
+Date:   Sat Aug 8 08:51:25 2015 +0100
+
+    Add bootstrap to public folder
+
+[33mcommit c73d8f772d6c6fd16fca4856df3eedabe0630e34[m
+Author: Simon Holmes <sholmes@liveperson.com>
+Date:   Sat Aug 8 07:31:30 2015 +0100
+
+    Starting default Express install
+
+[33mcommit c31d05cd80518f24e0f0a3122849925bbc55adda[m
+Author: Simon Holmes <sholmes@liveperson.com>
+Date:   Sat Aug 8 07:21:10 2015 +0100
+
+    Remove old version
+
+[33mcommit 6a133aa3b6c78ba82522c8f61af3c859c18fe0e3[m
+Author: Simon Holmes <sholmes@liveperson.com>
+Date:   Wed Mar 11 07:19:10 2015 +0000
+
+    Adding theme and starting homepage content
+
+[33mcommit 0426d783098e5d276587820cc816b82b3b5a6a17[m
+Author: Simon Holmes <sholmes@liveperson.com>
+Date:   Tue Mar 10 07:13:26 2015 +0000
+
+    Add readme
+
+[33mcommit f95c7740515f25ed7873e9ef93a50a7c7e856253[m
+Author: Simon Holmes <sholmes@liveperson.com>
+Date:   Tue Mar 10 07:09:37 2015 +0000
+
+    remove .bowerrc file
+
+[33mcommit f6c147f8c69a26c12f85644072b4144d93242320[m
+Author: Simon Holmes <sholmes@liveperson.com>
+Date:   Tue Mar 10 07:08:34 2015 +0000
+
+    Initial commit of boiler plate app
